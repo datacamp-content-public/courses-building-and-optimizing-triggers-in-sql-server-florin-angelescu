@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## What is a trigger?
+## Introduction to triggers
 
 ```yaml
 type: VideoExercise
